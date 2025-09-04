@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\r\n\ \r\n\ This\ class\ holds\ an\ item\ that\ the\ player\ carries,\r\n\ or\ a\ room\ has\ it.\r\n\r\n\ @author\ Maryam\ Ghazagh\r\n\ @version\ 2022.07.05\r\n
+comment1.params=name
+comment1.target=Item(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ @return\ the\ item\ name.\r\n
+numComments=3

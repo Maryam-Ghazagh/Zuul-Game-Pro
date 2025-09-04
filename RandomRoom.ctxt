@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RandomRoom
+comment0.text=\r\n\ This\ class\ has\ a\ method\ that\ return\ a\ random\ room.\r\n\ \r\n\ @author\ Maryam\ Ghazagh\r\n\ @version\ 2022.07.04\r\n
+comment1.params=rooms
+comment1.target=Room\ getRandomRoom(java.util.ArrayList)
+comment1.text=\r\n\ This\ method\ get\ the\ game\ rooms\ and\r\n\ return\ a\ random\ room\ between\ them.\r\n\ \r\n\ @param\ the\ game\ rooms.\r\n\ @return\ a\ random\ room.\r\n
+numComments=2

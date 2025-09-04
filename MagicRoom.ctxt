@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MagicRoom
+comment0.text=\r\n\ Class\ MagicRoom\ -\ a\ room\ in\ an\ adventure\ game.\ \r\n\ MagicRoom\ is\ a\ Room\ that\ this\ room\ is\ a\ magical\ room.\ \r\n\r\n\ @author\ Maryam\ Ghazagh\r\n\ @version\ 2022.07.04\r\n
+comment1.params=description\ rooms
+comment1.target=MagicRoom(java.lang.String,\ java.util.ArrayList)
+comment2.params=
+comment2.target=Room\ getExit()
+comment2.text=\r\n\ This\ method\ return\ a\ random\ room.\r\n\ \r\n\ @return\ a\ random\ room.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLongDescription()
+numComments=4

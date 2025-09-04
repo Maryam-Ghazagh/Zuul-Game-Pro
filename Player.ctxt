@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\r\n\ \r\n\ This\ class\ is\ for\ player\ features.\r\n\r\n\ @author\ Maryam\ Ghazagh\r\n\ @version\ 2022.07.05\r\n
+comment1.params=
+comment1.target=Player()
+comment2.params=currentRoom
+comment2.target=void\ setCurrentRoom(Room)
+comment2.text=\r\n\ If\ the\ player\ is\ in\ a\ room,\ puts\ the\ room\ in\ currentRoom.\r\n\ \r\n\ @param\ currentRoom\ The\ room\ where\ the\ player\ is\ in.\r\n
+comment3.params=
+comment3.target=Room\ getCurrentRoom()
+comment3.text=\r\n\ Return\ where\ the\ player\ is\ in.\r\n\ \r\n\ @return\ currentRoom\ The\ room\ where\ the\ player\ is\ in.\r\n
+comment4.params=previousRoom
+comment4.target=void\ setPreviousRoom(Room)
+comment4.text=\r\n\ If\ the\ player\ was\ in\ a\ room,\ puts\ the\ room\ in\ previousRoom.\r\n\ \r\n\ @param\ previousRoom\ The\ room\ where\ the\ player\ was\ in.\r\n
+comment5.params=
+comment5.target=Room\ getPreviousRoom()
+comment5.text=\r\n\ Return\ where\ the\ player\ was\ in.\r\n\ \r\n\ @return\ previousRoom\ The\ room\ where\ the\ player\ was\ in.\r\n
+comment6.params=item
+comment6.target=void\ setItem(Item)
+comment6.text=\r\n\ In\ the\ player\ item,\ enter\ the\ item\ that\ the\ player\ is\ going\ to\ carry.\r\n\ @param\ item\r\n
+comment7.params=
+comment7.target=Item\ getItem()
+comment7.text=\r\n\ return\ the\ item\ carried\ by\ the\ player.\r\n\ @return\ item\r\n
+comment8.params=
+comment8.target=void\ removeItem()
+comment8.text=\r\n\ puts\ null\ in\ the\ player\ item.\r\n
+numComments=9
